@@ -27,6 +27,10 @@ Seuraavaksi avataan virtuaali-boxi ja luodaan virtuaalikone.
 
 ## b) Porttiskannaus 
 
+Ennen kun aloitetaan portti skannaus tarkistetaan että kummallakaan koneella (kali & meta) ei ole pääsyä internettiin. Katsotaan se `ping 1.1.1.1` komennolla.
+Kuten kuvassa näkyy molemmissa koneissa tuli tulokseksi `network is unreachable`.
+
+![image](https://user-images.githubusercontent.com/93308960/199989367-520b2c33-3b20-4260-8fc3-0598ac24b83b.png)
 
 
 

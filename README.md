@@ -70,7 +70,26 @@ db_namp -A 192.168.56.107 -oA info
 
 ## c) Murtaudu Metasploitableen
 
+![image](https://user-images.githubusercontent.com/93308960/200122909-2ab1eb3e-5e98-4ef6-b7fc-9fff241af494.png)
 
+![image](https://user-images.githubusercontent.com/93308960/200123067-175d4982-ea77-4aff-8267-883a017a803b.png)
+
+
+
+https://www.rapid7.com/db/modules/exploit/unix/ftp/vsftpd_234_backdoor/
+
+https://www.exploit-db.com/exploits/49757
+
+
+![image](https://user-images.githubusercontent.com/93308960/200123102-00c6755c-729e-4269-b6bc-bd2cee56c85c.png)
+
+![image](https://user-images.githubusercontent.com/93308960/200123125-12dd1fa3-f7ec-40cb-a3f6-a390aa65eab3.png)
+
+![image](https://user-images.githubusercontent.com/93308960/200123299-f3303d43-4409-4592-9afe-6f47671033ae.png)
+
+![image](https://user-images.githubusercontent.com/93308960/200123559-63a896ef-271d-4ef0-b1c7-1882e157baf6.png)
+
+![image](https://user-images.githubusercontent.com/93308960/200123584-b5473065-34ee-4515-9475-f075d4dce335.png)
 
 
 ## d) Murtaudu Metasploitableen pt.2 

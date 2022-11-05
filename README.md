@@ -94,7 +94,15 @@ https://www.exploit-db.com/exploits/49757
 
 ## d) Murtaudu Metasploitableen pt.2 
 
+![image](https://user-images.githubusercontent.com/93308960/200133620-ec15a84a-f736-4df6-a235-70b8a59fb275.png)
 
+
+![image](https://user-images.githubusercontent.com/93308960/200133663-faed89e9-cdcd-4715-bfbe-bfde6ac5f3f8.png)
+
+
+![image](https://user-images.githubusercontent.com/93308960/200133681-731942c9-03de-4d14-b9e1-877a0c385e8f.png)
+
+![image](https://user-images.githubusercontent.com/93308960/200133823-d81e7ff9-4495-4555-9355-84bc62fe88e4.png)
 
 
 ## e) Vulnhub

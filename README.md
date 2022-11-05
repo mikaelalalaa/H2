@@ -39,7 +39,7 @@ Metasploitable tietokantaan p채채st채채n komennolla `sudo msfdb run`, t채m채n j�
 
 
 
-![image](https://user-images.githubusercontent.com/93308960/200142185-1dee8805-8cd1-4f7a-be4b-8364ddf2a3b4.png)
+
 
 
 
@@ -68,7 +68,9 @@ db_nmap -A 192.168.56.107 -oA info
 ![image](https://user-images.githubusercontent.com/93308960/200142200-7822f466-3ecd-4ebc-bf33-43a353feb178.png)
 
 
-![image](https://user-images.githubusercontent.com/93308960/200122695-5e83c476-a27b-41ef-a1fb-84127339d720.png)
+
+
+![image](https://user-images.githubusercontent.com/93308960/200142710-295f60a0-2001-4fc7-a604-c698715ee2b4.png)
 
 
 ![image](https://user-images.githubusercontent.com/93308960/200141471-a02a7aca-a4cd-430a-a54a-eeedbe2cc3d3.png)

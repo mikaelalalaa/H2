@@ -2,9 +2,20 @@
 
 
 
-## x) 
+## x) [Conducting a penetration test with Metasploit](https://learning.oreilly.com/library/view/mastering-metasploit/9781838980078/B15076_01_Final_ASB_ePub.xhtml#_idParaDest-30)
 
-
+* käydään läpi hyödyllisiä komentoja kuten:
+  *  use - valitaan tietty moduuli jolla aletaan työskentelemään 
+  *  set - asetetaan arvo tietylle objektiiville
+  *  sessions - listaa saatavat istunnot
+* Muistellaan metasploitin perusteet kuten: payload, exploit, auxiliary
+* Syitä miksi metasploittia kannattaa käyttää:
+  *  Se framework on open source  
+  *  Vaihtaminen payloadien välillä on helppoa
+ * nmapin käyttö metasploitilla
+  *  db_nmap
+  *  hosts
+  *  services
 
 ## a) Metasploitable 2 asennus
 

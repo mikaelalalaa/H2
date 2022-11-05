@@ -60,12 +60,15 @@ Kuten kuvassa näkyy molemmissa koneissa tuli tulokseksi `network is unreachable
 
 
 ```
-db_namp 192.168.56.107 -oA ports
+db_nmap 192.168.56.107 -oA ports
  &&
-db_namp -A 192.168.56.107 -oA info
+db_nmap -A 192.168.56.107 -oA info
 ```
 
 ![image](https://user-images.githubusercontent.com/93308960/200122695-5e83c476-a27b-41ef-a1fb-84127339d720.png)
+
+
+![image](https://user-images.githubusercontent.com/93308960/200141471-a02a7aca-a4cd-430a-a54a-eeedbe2cc3d3.png)
 
 
 ## c) Murtaudu Metasploitableen
@@ -106,3 +109,23 @@ https://www.exploit-db.com/exploits/49757
 
 
 ## e) Vulnhub
+
+![image](https://user-images.githubusercontent.com/93308960/200137462-b9e9f69d-69b6-432c-b1bd-1d4ad13434aa.png)
+
+
+![image](https://user-images.githubusercontent.com/93308960/200137449-14f225bd-7d2d-41cc-9998-729d06763469.png)
+
+![image](https://user-images.githubusercontent.com/93308960/200137664-164ed54f-859a-4d37-a310-ed5a0f456d08.png)
+
+![image](https://user-images.githubusercontent.com/93308960/200137947-2a64d88f-4fd1-421b-af9d-0773c95739a5.png)
+
+.2uqPEfj3D<P’a-3
+
+![image](https://user-images.githubusercontent.com/93308960/200138346-f48d7c0c-e3bb-44f6-8bb0-299ff0acd332.png)
+
+
+![image](https://user-images.githubusercontent.com/93308960/200138465-46d67da7-9271-4b7c-a0c2-eb549b17017c.png)
+
+
+![image](https://user-images.githubusercontent.com/93308960/200138999-d5f1b65a-3c0d-4d0e-b860-f53c3a842f62.png)
+

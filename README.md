@@ -129,3 +129,12 @@ https://www.exploit-db.com/exploits/49757
 
 ![image](https://user-images.githubusercontent.com/93308960/200138999-d5f1b65a-3c0d-4d0e-b860-f53c3a842f62.png)
 
+
+## Lähteet
+
+https://www.vulnhub.com/entry/empire-breakout,751/
+
+https://resources.infosecinstitute.com/topic/hacking-and-gaining-access-to-linux-by-exploiting-samba-service/
+
+
+https://www.technoscience.site/2021/12/3-dancing-starting-point-hack-box.html

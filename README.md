@@ -32,19 +32,18 @@ Kuten kuvassa näkyy molemmissa koneissa tuli tulokseksi `network is unreachable
 
 ![image](https://user-images.githubusercontent.com/93308960/199989367-520b2c33-3b20-4260-8fc3-0598ac24b83b.png)
 
-
+Tehdään vielä uusi työtila komennolla `workspace --add metasploitable`
 
 ![image](https://user-images.githubusercontent.com/93308960/200121145-461e7d3a-fe1d-44b1-b375-044d4e00a3a8.png)
 
 
 
-![image](https://user-images.githubusercontent.com/93308960/200121518-63df8b40-f049-4590-96a0-6f35ae923676.png)
 
 
-![image](https://user-images.githubusercontent.com/93308960/200121724-b320f05a-f073-4622-ab33-8849eeeab825.png)
 
 
-![image](https://user-images.githubusercontent.com/93308960/200121898-f062c47a-6594-413e-8e0e-dd1a96de06ad.png)
+
+
 
 
 ![image](https://user-images.githubusercontent.com/93308960/200121990-6e4e9f3b-bfe2-46de-bd6b-0655e2e9ea04.png)

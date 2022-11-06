@@ -120,14 +120,26 @@ Testataan ja luodaan uusi käyttäjä `adduser matti`. Vasemmalla korostetussa k
 
 Valitsin [vulnhub](https://www.vulnhub.com/) sivustolta Empire: Breakout tehtävän. Sivustolta sain valmiin levykuvan virtuaaliboxiin joten kun sain sen asennettua aloitin tehtävä perinteisellä porttiskannauksella.
 
-`sudo nmap 192.168.56.111 -p- -sV`, tuloksena saatiin apache 
+`sudo nmap 192.168.56.111 -p- -sV`, tarkastellaan mitä löytyy
+
+* apache palvelin auki ja toimii 80 portilla eli oletus portti
+* samba portit 139 & 445 auki 
+* portit 1000 & 2000 auki, liittyvät http sivuun
 
 ![image](https://user-images.githubusercontent.com/93308960/200137462-b9e9f69d-69b6-432c-b1bd-1d4ad13434aa.png)
 
+Apachen sivun saa auki kirjoittamalla selaimeen `http://192.168.56.111`, jolloin avautui oletus sivu. Lähdin vielä katsomaan portteja 1000 & 2000, avasin kaksi uutta välilehteä ja kirjoitin:
+
+```
+http//192.168.56.111:1000
+&&
+http//192.168.56.111:2000
+```
+Jolloin avautui kaksi eri login sivua
 
 ![image](https://user-images.githubusercontent.com/93308960/200137449-14f225bd-7d2d-41cc-9998-729d06763469.png)
 
-![image](https://user-images.githubusercontent.com/93308960/200137664-164ed54f-859a-4d37-a310-ed5a0f456d08.png)
+
 
 Salasana löytyi apachen lähde koodista, se oli kryptattu. Salasana oli .2uqPEfj3D<P’a-3
 
@@ -151,5 +163,8 @@ https://www.vulnhub.com/entry/empire-breakout,751/
 
 https://resources.infosecinstitute.com/topic/hacking-and-gaining-access-to-linux-by-exploiting-samba-service/
 
+https://learning.oreilly.com/library/view/mastering-metasploit/9781838980078/B15076_01_Final_ASB_ePub.xhtml#_idParaDest-43
 
 https://www.technoscience.site/2021/12/3-dancing-starting-point-hack-box.html
+
+https://resources.infosecinstitute.com/topic/hacking-and-gaining-access-to-linux-by-exploiting-samba-service/

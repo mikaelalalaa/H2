@@ -13,9 +13,9 @@
   *  Se framework on open source  
   *  Vaihtaminen payloadien välillä on helppoa
  * nmapin käyttö metasploitilla
-  *  db_nmap
-  *  hosts
-  *  services
+   *  db_nmap
+   *  hosts
+   *  services
 
 ## a) Metasploitable 2 asennus
 

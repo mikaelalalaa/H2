@@ -99,7 +99,7 @@ Katsotaan vielä `whoami` komennolla että millä käyttäjällä ollaan.
 
 ## d) Murtaudu Metasploitableen pt.2 
 
-Toiseksi murtautumis menetelmäksi valitsin VNC ohjelman. Aloitin komennolla `search vnc`, jossa tuli isokasa Silmääni osui vnc_login, tämä skannaa kirjaus yrityksen sovellukseen ja antaa salasanan *apua sain [offensivesecurity](https://www.offensive-security.com/metasploit-unleashed/scanner-vnc-auxiliary-modules/)
+Toiseksi murtautumis menetelmäksi valitsin VNC ohjelman. Aloitin komennolla `search vnc`, jossa tuli isokasa Silmääni osui vnc_login, tämä skannaa kirjaus yrityksen sovellukseen ja antaa salasanan.  *apua sain [offensivesecurity](https://www.offensive-security.com/metasploit-unleashed/scanner-vnc-auxiliary-modules/) sivulta*
 
 ![image](https://user-images.githubusercontent.com/93308960/200133620-ec15a84a-f736-4df6-a235-70b8a59fb275.png)
 

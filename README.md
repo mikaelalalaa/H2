@@ -99,7 +99,7 @@ Katsotaan vielä `whoami` komennolla että millä käyttäjällä ollaan.
 
 ## d) Murtaudu Metasploitableen pt.2 
 
-Toiseksi murtautumis menetelmäksi valitsin VNC ohjelman. Aloitin komennolla `search vnc`, jossa tuli isokasa Silmääni osui vnc_login, tämä skannaa kirjaus yrityksen sovellukseen ja antaa salasanan
+Toiseksi murtautumis menetelmäksi valitsin VNC ohjelman. Aloitin komennolla `search vnc`, jossa tuli isokasa Silmääni osui vnc_login, tämä skannaa kirjaus yrityksen sovellukseen ja antaa salasanan *apua sain [offensivesecurity](https://www.offensive-security.com/metasploit-unleashed/scanner-vnc-auxiliary-modules/)
 
 ![image](https://user-images.githubusercontent.com/93308960/200133620-ec15a84a-f736-4df6-a235-70b8a59fb275.png)
 
@@ -168,3 +168,5 @@ https://learning.oreilly.com/library/view/mastering-metasploit/9781838980078/B15
 https://www.technoscience.site/2021/12/3-dancing-starting-point-hack-box.html
 
 https://resources.infosecinstitute.com/topic/hacking-and-gaining-access-to-linux-by-exploiting-samba-service/
+
+https://www.offensive-security.com/metasploit-unleashed/scanner-vnc-auxiliary-modules/
